@@ -1,5 +1,5 @@
 # Python-Forex-Strategy-Test
-Python Forex Strategy testing in python 
+Python Forex Strategy test in python 
 
 __Creating Enviroment to test FOREX market strategies__
 - Creating a python enviroment to test forex strategies.
